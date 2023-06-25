@@ -1,4 +1,5 @@
-![preview](https://github.com/ISOR3X/library-of-templates/assets/75855460/e39ea245-46b1-427a-85b0-3d266b5bfc68)
+![preview](https://github.com/ISOR3X/library-of-templates/assets/75855460/f92f463a-da75-452e-b3c2-be26f82c4150)
+
 
 This Github page is intended as a central hub (or library) for my RimWorld art templates. 
 Over the years I have made several templates for myself to ease my workflow. I wanted to help the community out by sharing them with eveyrone else.
