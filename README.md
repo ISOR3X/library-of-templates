@@ -15,6 +15,8 @@ I intend to share more templates in the future.
 1. You can freely use these templates, the only thing you need to do is give credit this github when you post a mod (as mentioned by the license!).
 2. Make sure to copy both the .AI file and the references folder. Without the references folder you will miss textures.
 
+
+### License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
