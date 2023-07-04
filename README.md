@@ -14,6 +14,8 @@ I intend to share more templates in the future. If you find any issues with the 
 
 ### Credits
 Sarg - Humanlike textures (bodies & heads)
+<br>  
+<br>  
 
 ### License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
